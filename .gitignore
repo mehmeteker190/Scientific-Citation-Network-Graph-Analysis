@@ -1,6 +1,6 @@
 # Compiled class files
-target/
 *.class
+target/
 
 # IDE files
 .vscode/
@@ -9,6 +9,8 @@ target/
 
 # Maven wrapper
 .mvn/
+mvnw
+mvnw.cmd
 
 # OS files
 .DS_Store
@@ -16,3 +18,8 @@ Thumbs.db
 
 # Log files
 *.log
+
+# Package files
+*.jar
+*.war
+*.ear
